@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+    <pubData>
+        <author name="Sam-Fromartz"/>
+        <tester name="Bonnie-Benwick"/>
+        <publication name="Wash-Post" location="web"/>
+        <pubDate date="09-09-2014"/>
+    </pubData>
+    <recipeData>
+        <category name="breads" cuisine="fr"/>
+        <servings type="slices" min="10" max="12"/>
+        <nutritionData>
+            <cals n="70"/>
+            <carbs n="14" unit="g"/>
+            <sodium n="190" unit="g"/>
+            <protein n="2" unit="g"/>
+            <fiber n="1" unit="g"/>
+        </nutritionData>
+    </recipeData>
+<ingredients>
+<tool type="measCup">measuring cup</tool>
+<ingredient category="flour" type="whiteBread" n="1-1/4" unit="cups">1 1/4 cups <altMeas n="160" unit="g">(160 grams)</altMeas> white bread flour</ingredient> <note>plus more for dusting</note>
+
+<ingredient category="flour" type="wholeWheat" spec="stoneGround" unit="cups" n="1/4">1/4 cup <altMeas unit="g" n="38">(38 grams)</altMeas> stone-ground whole-wheat flour</ingredient>
+
+<ingredient category="flour" type="wholeRye" spec="stoneGround" unit="cups" n="1/4">1/4 cup <altMeas unit="g" n="32">(32 grams)</altMeas> stone-ground whole rye flour</ingredient>
+
+<ingredient category="yeast" type="instant" altType="breadMachine" unit="tsp" n="1/2">1/2 teaspoon instant yeast or bread machine yeast</ingredient>
+
+<ingredient category="seasoning" type="tableSalt" unit="tsp" n="1">1 teaspoon table salt</ingredient>
+
+<ingredient category="liquid" type="fermentedCider" unit="cups" n="1/4">1/4 cup <altMeas unit="g" n="55">(55 grams)</altMeas> dry fermented cider <sub category="liquid" type="Pilsener">(may substitute Pilsener beer; see headnote)</sub></ingredient>
+
+<ingredient category="liquid" type="water" temp="80" unit="cups" n="1/2">1/2 cup <altMeas unit="g" n="120">(120 grams)</altMeas> lukewarm water (80 degrees)<note>, plus an optional 1 tablespoon</note></ingredient>
+</ingredients>
+<directions steps="11">
+<step n="1">
+Whisk together the flours, yeast and salt in a mixing bowl. Combine the cider and water in a liquid measuring cup.</step>
+
+<step n="2">
+Add the liquid to the flour mixture; use a spatula or bench scraper or your hand moistened with water to blend them for about a minute. The dough should be shaggy yet cohesive. Cover the bowl with a towel; let the dough rest for 20 minutes.
+</step>
+Step 3
+Moisten your kneading hand. If the dough seems stiff, add the optional tablespoon of water. Stretch one edge of the dough (still in the bowl), then press it into the center of the bowl. Repeat this about a dozen times, moving clockwise to catch all sides of the dough. (This should take 1 or 2 minutes.)
+
+Step 4
+Turn the dough over so the seams are on the bottom. Cover and let rest for 20 minutes. Repeat the clockwise stretching and folding two more times, with 20-minute rests after each. Cover and refrigerate at least 8 hours and up to 24 hours. The dough should have doubled. If it hasn't, leave it on the counter until it does.
+
+Step 5
+Lightly flour a work surface. Use a pastry cloth or clean dish towel to line a round colander. Dust the cloth with flour.
+
+Step 6
+Transfer the dough to the floured work surface. Fold the edges toward the center to create a round shape, turning it over so the seams are on the bottom. Let it rest for 5 minutes, then transfer to the colander, seam side up. Cover with a towel and let the dough rise for 1 1/2 hours.
+
+Step 7
+Thirty minutes before baking, place a cast-iron Dutch oven (lid on) or enameled cast-iron pot with a lid (on) in the oven; preheat to 475 degrees.
+
+Step 8
+Carefully remove the hot pot from the oven.
+
+Step 9
+Turn the dough out onto the counter so the seams are on the bottom. Use kitchen scissors to make 8 snips on the top of the dough in an evenly spaced spoke pattern, each about 1/4-inch deep. Lift the dough and carefully drop it into the hot pot. Immediately cover with the hot lid. Bake for 30 minutes, then reduce the heat to 450 degrees. Uncover and bake for 8 to 10 minutes or until the crust is dark brown. Try to minimize the amount of time the oven door is open.
+
+Step 10
+The bread is done when its internal temperature registers 205 degrees on an instant-read thermometer and the loaf sounds hollow when knocked on the underside.
+
+Step 11
+Transfer the loaf to a wire rack to cool for at least 1 hour before cutting.</directions>
+</recipe>
